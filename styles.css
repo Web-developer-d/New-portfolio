@@ -1,0 +1,21 @@
+html {
+    background-color: rgb(160, 246, 244);
+}
+
+h1{
+    color: rgb(0, 0, 6);
+    text-align: center;
+    
+}
+hr{
+color: rgb(72, 9, 244);
+}
+h2{
+color: blue;
+
+}
+footer{
+text-align: end;
+color: rgb(253, 9, 21);
+
+}
